@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ademgattoussi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and JS
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me: my instagram: infinite__over_kill 
 
